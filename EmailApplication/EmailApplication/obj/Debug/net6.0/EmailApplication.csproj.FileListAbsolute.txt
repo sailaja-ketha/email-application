@@ -1,0 +1,15 @@
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\bin\Debug\net6.0\EmailApplication.exe
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\bin\Debug\net6.0\EmailApplication.deps.json
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\bin\Debug\net6.0\EmailApplication.runtimeconfig.json
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\bin\Debug\net6.0\EmailApplication.dll
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\bin\Debug\net6.0\EmailApplication.pdb
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.csproj.AssemblyReference.cache
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.AssemblyInfoInputs.cache
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.AssemblyInfo.cs
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.csproj.CoreCompileInputs.cache
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.dll
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\refint\EmailApplication.dll
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.pdb
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\EmailApplication.genruntimeconfig.cache
+C:\Practice\Technovert Tasks\EmailApplication\EmailApplication\obj\Debug\net6.0\ref\EmailApplication.dll
